@@ -8,15 +8,6 @@ function App() {
   const [textDigited, setTextDigited] = useState("");
   const [downloadPermitted, setDonwloadPermitted] = useState(false);
 
-  /*useEffect(() => {
-
-    QRCode.toCanvas(document.getElementById('canvas'), 'sample text', function (error) {
-      if (error) console.error(error)
-      console.log('success!');
-    })
-
-  }, [])*/
-
   const clean = () => {
 
     setDonwloadPermitted(false);
