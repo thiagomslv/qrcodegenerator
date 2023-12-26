@@ -1,8 +1,28 @@
-# React + Vite
+<h1 align=center>Gerador de QR Code</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1 - Sobre
 
-Currently, two official plugins are available:
+Gerador de QR Code. Pode ser utilizado para os mais variados fins.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 2 - Tecnologias
+
+- React
+- JavaScript
+- CSS
+
+## 3 - Como rodar o projeto
+
+```
+1. Faça o clone do repositório com o Git.
+$ git clone https://github.com/thiagomslv/qrcodegenerator.git
+
+2. Instale as dependências pelo terminal.
+npm install
+
+3. Inicie a aplicação em modo de desenvolvimento.
+npm run dev
+
+4. Acesse a URL disponibilizada pelo servidor de desenvolvimento em http://localhost:5173/
+```
+
+<p align="center">De <a href="https://www.linkedin.com/in/thiagomslv/">Thiago Marques</a> para o mundo!</p>
