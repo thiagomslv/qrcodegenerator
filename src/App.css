@@ -31,6 +31,8 @@
 
     justify-content: space-around;
     align-items: center;
+    color: white;
+    -webkit-text-fill-color: white;
 }
 
 .container-buttons > button{
